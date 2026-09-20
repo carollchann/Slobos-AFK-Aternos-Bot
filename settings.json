@@ -8,7 +8,7 @@
   "server": {
     "ip": "Celeryconstruct.aternos.me",
     "port": 12322,
-    "version": "",
+    "version": "1.12.2",
     "try-creative": false
   },
   "position": {
